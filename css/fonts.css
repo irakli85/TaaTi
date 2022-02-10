@@ -1,0 +1,48 @@
+@font-face {
+    font-family: '3D Unicode';
+    src: url('../fonts/3DUnicode.woff2') format('woff2'),
+        url('../fonts/3DUnicode.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archetype Mkhedruli';
+    src: url('../fonts/ArchetypeMkhedruli.woff2') format('woff2'),
+        url('../fonts/ArchetypeMkhedruli.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AR Archy';
+    src: url('../fonts/ARArchySemiBold.woff2') format('woff2'),
+        url('../fonts/ARArchySemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALortkipanidze';
+    src: url('../fonts/GEOLortkipanidzeNormal.woff2') format('woff2'),
+        url('../fonts/GEOLortkipanidzeNormal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Barata';
+    src: url('../fonts/Barata.woff2') format('woff2'),
+        url('../fonts/Barata.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
